@@ -1,4 +1,5 @@
 baseurl         = "https://blog.brunopaz.net"
+title           = "Bruno Paz blog"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = "blog-brunopaz-net"
@@ -9,7 +10,7 @@ canonifyurls    = true
 [params]
   title       = "Bruno Paz"
   subtitle    = "bits & bytes about tech and programming"
-  
+
   description = "Bits & bytes about tech and programming"
   metaDescription = ""
   googleAnalytics = "UA-48571015-1"
