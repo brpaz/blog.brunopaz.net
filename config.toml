@@ -1,0 +1,48 @@
+baseurl         = "https://blog.brunopaz.net"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = "blog-brunopaz-net"
+paginate        = 6
+canonifyurls    = true
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Bruno Paz"
+  subtitle    = "bits & bytes about tech and programming"
+
+
+  description = "Bits & bytes about tech and programming"
+  metaDescription = ""
+  googleAnalytics = "UA-48571015-1"
+  customCSS = ["css/custom.css"]
+  RSSLink = ""
+
+  twitterName = "@brunopaz88"
+  githubName = "brpaz"
+  
+  author = "Bruno Paz"
+  authorAvatar = "img/profile.jpg"
+  authorLocation = "Porto, Portugal"
+  authorWebsite = "https://brunopaz.net"
+  authorDescription = ""
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "caspertwo"
+  comments = true
+  copyright = "Bruno Paz © 2019"
+
+
+[permalinks]
+  post = "/post/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "My website"
+  url = "https://brunopaz.net"
+  weight = 95

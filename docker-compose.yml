@@ -1,0 +1,9 @@
+version: "3.5"
+
+services:
+  blog:
+    image: yanqd0/hugo:0.53
+    volumes:
+      - .:/srv/hugo
+    ports:
+      - 1313:1313
