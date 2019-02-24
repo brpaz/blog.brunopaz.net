@@ -1,4 +1,4 @@
-baseurl         = "https://blog.brunopaz.net"
+baseurl         = "https://blog.brunopaz.net/"
 title           = "Bruno Paz blog"
 theme           = "casper-two"
 languageCode    = "en-US"
