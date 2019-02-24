@@ -3,10 +3,11 @@ date: 2018-03-24
 title: My Linux Development Environment of 2018
 description: In this blog post I will talk a bit about the setup and software of my personal laptop, powered by Linux.
 image: img/posts/linux-development-env.jpeg
+categories : [
+    "Development",
+]
 tags:
-  - development
   - linux
-  - productivity
 ---
 
 In this blog post I will talk a bit about the setup and software of my personal laptop, powered by Linux. This is somewhat inspired by [this post](https://dev.to/mrkaran/my-development-setup-on-a-macbook), but for a Linux based setup.

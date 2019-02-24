@@ -5,7 +5,6 @@ description: Docker Multi-stage builds is a great way to build smaller Docker im
 image: img/posts/multi-stage.jpg
 categories:
   - development
-  - docker
 tags:
   - development
   - docker

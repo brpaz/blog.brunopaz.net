@@ -3,8 +3,10 @@ date: 2018-09-23
 title: My favorite PHP books
 description: In this post, I share some of my favorite PHP books that I consider a must read for any PHP developer.
 image: img/posts/php-books.jpg
+categories:
+  -  development
+  -  knowledge
 tags:
-  - development
   - php
   - books
 ---

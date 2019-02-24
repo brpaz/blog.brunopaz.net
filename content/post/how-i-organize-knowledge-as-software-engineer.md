@@ -3,9 +3,11 @@ date: 2018-10-29
 title: How I organize my knowledge as a Software Engineer
 description: Docker Multi-stage builds is a great way to build smaller Docker images optimized for production use without having things like build tools in the final image. But what about development? You might need these build tools. In this article I will show you how you can have the best of both worlds with the same Dockerfile and Multi-stage builds.
 image: img/posts/knowledge-engineer.jpeg
-tags:
-  - development
+categories:
+  - productivity
   - knowledge
+tags:
+  - workflows
   - learning
 ---
 

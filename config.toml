@@ -29,7 +29,7 @@ canonifyurls    = true
   pageNotFoundTitle = "404 - Page not found"
 
   #casper or caspertwo
-  singleViewStyle = "caspertwo"
+  singleViewStyle = "casper"
   comments = true
   copyright = "Bruno Paz © 2019"
 
@@ -41,6 +41,18 @@ canonifyurls    = true
   name = "Home"
   url = "/"
   weight = 200
+
+[[menu.main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 150
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 150
+
+
 
 [[menu.main]]
   name = "My website"
