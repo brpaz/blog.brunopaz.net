@@ -6,7 +6,6 @@ image: img/posts/ulauncher-ext-development.jpeg
 categories:
   - development
 tags:
-  - development
   - linux
   - ulauncher
   - python

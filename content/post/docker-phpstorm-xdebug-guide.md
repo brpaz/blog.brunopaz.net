@@ -6,7 +6,6 @@ image: img/posts/docker-xdebug-phpstorm.png
 categories:
   - development
 tags:
-  - development
   - docker
   - xdebug
   - phpstorm

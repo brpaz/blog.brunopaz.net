@@ -3,8 +3,9 @@ date: 2018-12-24
 title: An introduction to Symfony | The foundation of modern PHP applications
 description: In this post I will give a brief introduction to Symfony and how you can use it to build modern and performant PHP applications.
 image: img/posts/introduction-to-symfony.jpg
+categories:
+    - development
 tags:
-  - development
   - php
   - symfony
 ---

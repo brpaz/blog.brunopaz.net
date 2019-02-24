@@ -6,6 +6,10 @@ body {
     background: #009FDE;
 }
 
+.site-description a {
+    color: #FFF;
+}
+
 code {
     margin-bottom: .8em;
 }
