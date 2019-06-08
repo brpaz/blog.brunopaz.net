@@ -2,7 +2,7 @@
 date: 2019-03-20
 title: My experience on mentoring Junior Devs
 description: The ability to proper onboard and coach Junior Devs is essential for any successful company. I have been working closely with Junior Devs almost since the beginning of my career and its something I really enjoy. In this post, I will share my experiences and give some tips about how to be a great mentor.
-image: img/posts/linux-development-env.jpeg
+image: img/posts/mentoring-junior-devs.jpeg
 categories : [
     "Carreer",
     "Leadership"
